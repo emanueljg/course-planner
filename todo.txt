@@ -1,0 +1,12 @@
+course class color
+advertise on discord server
+clean up course string construction
+docstrings
+figure out credentials.json
+service resources?
+github
+fancy readme
+
+
+...
+web api? distribute?
